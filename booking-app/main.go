@@ -13,7 +13,7 @@ func main() {
 
 	var userName string
 	var timeBlocks int
-	// ask user for their name
+	// ask the user for their name
 
 	userName = "Solange"
 	timeBlocks = 3
